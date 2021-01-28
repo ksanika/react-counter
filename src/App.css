@@ -1,0 +1,52 @@
+body {
+  background-color: #6a1b4d;
+}
+
+h2 {
+  text-align: center;
+  color: azure;
+  padding-top: 2%;
+  font-size: 40px;
+}
+
+.displayCounter {
+  color: azure;
+  display: block;
+  text-align: center;
+  line-height: 150%;
+  font-size: 30px;
+}
+
+.increaseBtn {
+  text-align: center;
+  height: 50px;
+  width: 250px;
+  border-radius: 30px;
+  font-size: 15px;
+  color: #6a1b4d;
+  background-color: white;
+  margin-right: 20px;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  padding-top: 100px;
+}
+
+.decreaseBtn {
+  text-align: center;
+  height: 50px;
+  width: 250px;
+  border-radius: 30px;
+  font-size: 15px;
+  color: #6a1b4d;
+  background-color: white;
+}
+
+.containerReset {
+  text-align: center;
+  width: 100%;
+  height: 200px;
+}
